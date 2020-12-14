@@ -1,0 +1,3 @@
+<view class="butt">
+<button bindtap="tap" type="primary" >{{words}}</button>
+</view>
