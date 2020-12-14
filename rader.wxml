@@ -1,0 +1,6 @@
+<view class="title">radar</view>
+<canvas class = "canvas" id="chart1"
+canvas-id="distance"></canvas>
+<view>
+<image src="https://img95.699pic.com/xsj/05/lp/67.jpg!/fh/300" mode="widthFix"></image>
+</view>
